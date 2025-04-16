@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+wfdb
+neurokit2
+heartpy
+ace_tools
+gradio
